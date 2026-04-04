@@ -7,7 +7,7 @@ chromadb
 groq
 langchain-community
 langchain-core
-- e.
+-e .
 
 
                         
